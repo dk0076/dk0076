@@ -25,9 +25,7 @@ VolleyStation or DataVolley file that nothing else reads.
 
 Any statistic I ship is checked against VolleyStation's own output for the same
 file before a coach sees it. Agreeing to three decimal places is the bar;
-looking about right is not. That rule is what caught a rotation-labeling defect
-that had silently mislabeled every rotation-level stat in earlier reports.
-
+looking about right is not.
 ### Tools
 
 R (Shiny, data.table, Quarto) · SQL (DuckDB) · Python · JavaScript · Git
